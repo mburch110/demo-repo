@@ -1,3 +1,3 @@
 # demo-repo
-Just another Demo repe
+Just another Demo repo
  
